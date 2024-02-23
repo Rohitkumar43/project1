@@ -1,0 +1,15 @@
+// here we made a blog page so in this we get to know 
+ too mant things 
+
+1. SETUP OF THE BLOG PAGE 
+
+1. makeing folder and set the view engine 
+2. make partial in the view engine to make the code simple 
+
+=> after that we write the schema for the usermodel 
+=> now hasing of password we used crypto hash node.js 
+
+=> we make home page aand also we make  a signup page using bootstrap 
+=> Now we connecr the mongoaDb with the server 
+
+=> 
